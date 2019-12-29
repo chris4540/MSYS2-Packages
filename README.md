@@ -1,5 +1,20 @@
-# my-MSYS2-Packages
+# MSYS2-Packages
 
+## How to build
+```bash
+cd <pkg>
+makepkg
+```
+
+## Trouble-shooting
+https://github.com/msys2/msys2/wiki/Creating-packages
+
+### List of fixed packages 
+```
+cmatrix
+```
+
+### List of packages (not checked)
 ```
 antiword
 atool
